@@ -25,12 +25,12 @@ using System.Security;
 	#elif DOTNET35
 	"Castle Core for .NET Framework 3.5"
 	#else
-	"Castle Core for .NET Core 1.0"
+	"Castle Core Clone WARS for .NET Core 1.0"
 	#endif
 )]
 
-[assembly: AssemblyCompany("Castle Project")]
-[assembly: AssemblyCopyright("Copyright (c) 2004-$CurrentYear$ Castle Project - http://www.castleproject.org")]
+[assembly: AssemblyCompany("Castle Clone WARS project")]
+[assembly: AssemblyCopyright("Copyright (c) 2004-$CurrentYear$ Castle Clone WARS Project")]
 
 [assembly: AssemblyVersion("0.0.0")]
 [assembly: AssemblyFileVersion("0.0.0")]
